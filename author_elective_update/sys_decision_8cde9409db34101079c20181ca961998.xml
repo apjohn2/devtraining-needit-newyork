@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision">
+    <sys_decision action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <answer_table>x_58872_needit_approval_levels</answer_table>
+        <answer_type>reference</answer_type>
+        <label/>
+        <name>Approval Policy</name>
+        <reference_qualifier/>
+        <sys_class_name>sys_decision</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 18:46:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8cde9409db34101079c20181ca961998</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval Policy</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_decision_8cde9409db34101079c20181ca961998</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 18:46:22</sys_updated_on>
+    </sys_decision>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>46feb477db3f57044f035d00cf96198c</instance_id>
+        <instance_name>dev70496</instance_name>
+        <name>sys_decision_8cde9409db34101079c20181ca961998</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision"><sys_decision action="INSERT_OR_UPDATE"><access>public</access><active>true</active><answer_table>x_58872_needit_approval_levels</answer_table><answer_type>reference</answer_type><label/><name>Approval Policy</name><reference_qualifier/><sys_class_name>sys_decision</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-13 18:46:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8cde9409db34101079c20181ca961998</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Approval Policy</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_decision_8cde9409db34101079c20181ca961998</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-13 18:46:22</sys_updated_on></sys_decision></record_update>]]></payload>
+        <payload_hash>-1861614513</payload_hash>
+        <record_name>Approval Policy</record_name>
+        <reverted_from/>
+        <source>064ca770db70101079c20181ca96198e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 18:46:22</sys_created_on>
+        <sys_id>d41fd009db34101079c20181ca9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1720f5becef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 18:46:22</sys_updated_on>
+        <type>Decision Table</type>
+        <update_guid>101fd009bc3410108cbcc71a943e04fd</update_guid>
+        <update_guid_history>101fd009bc3410108cbcc71a943e04fd:-1861614513</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 18:56:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_decision">sys_decision</sys_db_object>
+        <sys_id>2e30474a6bdd4a8196a5fe6419cd1381</sys_id>
+        <sys_metadata>8cde9409db34101079c20181ca961998</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval Policy</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_decision_8cde9409db34101079c20181ca961998</sys_update_name>
+        <sys_update_version display_value="sys_decision_8cde9409db34101079c20181ca961998">d41fd009db34101079c20181ca9619fd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 18:56:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
